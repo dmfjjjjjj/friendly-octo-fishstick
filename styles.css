@@ -1,0 +1,65 @@
+/* styles.css */
+
+body {
+  background-color: white;
+}
+
+h1 {
+  color: red;
+  font-size: 60px;
+}
+
+p {
+  color:black;
+  font-size: 18px;
+}
+.Like {
+color:black;
+font-weight: bold;
+}
+.Video {
+color:red;
+font-weight: bold;
+}
+.Zoro {
+color:green;
+}
+.intro {
+  font-size: 16px;
+  font-weight: none;
+  text-align:center;
+}
+#Fifa {
+border: 6px solid red;
+}
+.Lol {
+  color: red;
+  font-size: 24px;
+  text-align: center;
+}
+.bouton {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding: 9px 19px;
+  border: none;
+  cursor: pointer;
+}
+.centre {
+  text-align: center;
+}
+.Centre {
+  text-align: center;
+}
+.taill {
+  width: 600px;
+  height: auto; 
+}
+.Milieu {
+text-align: center;
+}
+.h2 {
+color: red;
+font-weight: bold;
+background-color:none;
+
